@@ -1,0 +1,12 @@
+name: aprendiz-ml
+dependencies:
+        - numpy
+        - scipy
+        - pandas
+        - scikit-learn
+        - matplotlib
+        - seaborn
+        - pillow
+        - graphviz
+        - python-graphviz
+        - jupyter

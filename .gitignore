@@ -1,0 +1,8 @@
+# Ignore Notebooks Checkpoints
+notebooks/.ipynb_checkpoints
+
+# Ignore Folder Exercises
+exercises/*
+
+# Ignore Folder Slides Sources
+slides/sources/*
