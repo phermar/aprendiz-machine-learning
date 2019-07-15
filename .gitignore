@@ -1,8 +1,15 @@
-# Ignore Notebooks Checkpoints
-notebooks/.ipynb_checkpoints
+# Ignore Temporary Files
+.DS_Store
+.gitignore
+
+# Ignore Jupyter Notebooks Checkpoints
+1-Introduction/.ipynb_checkpoints/*
+1-Linear_Classification/.ipynb_checkpoints/*
 
 # Ignore Folder Exercises
-exercises/*
+1-Introduction/exercises/*
+2-Linear_Classification/exercises/*
 
-# Ignore Folder Slides Sources
-slides/sources/*
+# Ignore Folder Slides Sources slides-sources/*
+1-Introduction/slides-sources/*
+2-Linear_Classification/slides-sources/*
