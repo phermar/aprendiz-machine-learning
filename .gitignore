@@ -1,6 +1,6 @@
 # Ignore Jupyter Notebooks Checkpoints
 1-Introduction/.ipynb_checkpoints/*
-1-Linear_Classification/.ipynb_checkpoints/*
+2-Linear_Classification/.ipynb_checkpoints/*
 
 # Ignore Folder Exercises
 1-Introduction/exercises/*
